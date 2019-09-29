@@ -1,0 +1,8 @@
+pioid9082dns0.eastus2.cloudapp.azure.com
+
+[dc]
+pioid9082dns0.eastus2.cloudapp.azure.com
+
+[dc:vars]
+ansible_ssh_user=vmadmin488
+ansible_ssh_pass=Cloudlab
